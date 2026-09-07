@@ -21,7 +21,7 @@ function App() {
     setLoading(true);
 
     try {
-      const response = await fetch(`http://127.0.0.1:8000/api/search?make=${make}&model=${model}&year=${year}`);
+      const response = await fetch(`https://car-specs-engine-production.up.railway.app/api/search?make=${make}&model=${model}&year=${year}`);
       const resData = await response.json();
       
       if (resData.success && resData.data) {
