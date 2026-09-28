@@ -129,5 +129,12 @@ CAR_DATABASE = {
         "civic": {"title": "Honda Civic Type R (FL5)", "hp": "315 HP", "accel": "0-100 in 5.4s", "speed": "275 km/h", "engine": "2.0L Turbocharged Inline-4", "drive": "FWD", "trans": "6-Speed Manual", "body": "Hot Hatchback"},
         "nsx": {"title": "Acura / Honda NSX Type S", "hp": "600 HP", "accel": "0-100 in 2.9s", "speed": "307 km/h", "engine": "3.5L Twin-Turbo V6 + 3 Electric Motors", "drive": "AWD (SH-AWD)", "trans": "9-Speed Dual-Clutch", "body": "Hybrid Supercar"},
         "accord": {"title": "Honda Accord 2.0T", "hp": "252 HP", "accel": "0-100 in 5.7s", "speed": "210 km/h", "engine": "2.0L Turbocharged Inline-4", "drive": "FWD", "trans": "10-Speed Automatic", "body": "Mid-Size Sedan"}
+    },
+    "opel": {
+        "astra": {"title": "Opel Astra", "hp": "147 HP", "accel": "0-100 in 9.2s", "speed": "210 km/h", "engine": "1.4L Turbo", "drive": "FWD", "trans": "Automatic", "body": "Hatchback"},
+        "corsa": {"title": "Opel Corsa", "hp": "130 HP", "accel": "0-100 in 8.7s", "speed": "208 km/h", "engine": "1.2L Turbo", "drive": "FWD", "trans": "Automatic", "body": "Hatchback"},
+        "insignia": {"title": "Opel Insignia", "hp": "200 HP", "accel": "0-100 in 7.7s", "speed": "235 km/h", "engine": "2.0L Turbo", "drive": "FWD", "trans": "Automatic", "body": "Sedan"},
+        "grandland": {"title": "Opel Grandland", "hp": "180 HP", "accel": "0-100 in 8.9s", "speed": "222 km/h", "engine": "1.6L Turbo", "drive": "FWD", "trans": "Automatic", "body": "SUV"},
+        "mokka": {"title": "Opel Mokka", "hp": "130 HP", "accel": "0-100 in 9.2s", "speed": "200 km/h", "engine": "1.2L Turbo", "drive": "FWD", "trans": "Automatic", "body": "SUV"}
     }
 }
